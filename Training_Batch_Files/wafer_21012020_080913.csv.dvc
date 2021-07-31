@@ -1,0 +1,8 @@
+md5: 32072d8014141ce34a5f69f1329c45bf
+wdir: ..
+outs:
+- md5: dd2d8ec96b35a4b4439636f7d06ec543
+  path: Training_Batch_Files/wafer_21012020_080913.csv
+  cache: true
+  metric: false
+  persist: false

@@ -1,0 +1,8 @@
+md5: a18c5f0ca0727b87a17fd5e73573e303
+wdir: ..
+outs:
+- md5: 628c7c6a4bf0c7efc862185d897c16d8
+  path: Training_Batch_Files/Wafer12_20012.csv
+  cache: true
+  metric: false
+  persist: false

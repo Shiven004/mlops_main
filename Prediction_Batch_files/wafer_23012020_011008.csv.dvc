@@ -1,0 +1,8 @@
+md5: f617ebc7defbf0b9cbd69cada940a43c
+wdir: ..
+outs:
+- md5: 4a07ff09f0c136ec109861ab43297743
+  path: Prediction_Batch_files/wafer_23012020_011008.csv
+  cache: true
+  metric: false
+  persist: false

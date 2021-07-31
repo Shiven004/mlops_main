@@ -1,0 +1,8 @@
+md5: 93ec4628e81c4e77316bbf01f44b5143
+wdir: ..
+outs:
+- md5: 145c641fff78f1f08d69dd6d83e9f67e
+  path: Training_Batch_Files/Wafer_fault_detection.csv
+  cache: true
+  metric: false
+  persist: false
