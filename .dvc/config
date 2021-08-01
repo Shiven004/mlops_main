@@ -1,4 +1,4 @@
 ['remote "storage"']
-url = ..\gdrive:\1IBBIghtI_7Eueqay200JO7VA4TJBlS1c
+url = https://drive.google.com/drive/u/0/folders/1IBBIghtI_7Eueqay200JO7VA4TJBlS1c
 [core]
 remote = storage
